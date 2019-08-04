@@ -4,6 +4,8 @@ body {
   line-height: 34px;
   color: #777777;
   background: url("../images/background.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 * {
