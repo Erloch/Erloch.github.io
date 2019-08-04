@@ -3,8 +3,8 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/background.gif");
-  
+  background: url("../images/metal.gif");
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
